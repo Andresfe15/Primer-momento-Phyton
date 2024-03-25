@@ -56,7 +56,7 @@ while True:
 
     elif option == "4":
         print("Operación cancelada.")
-        break  # Salir del bucle mientras
+        break 
 
     else:
         print("Opción inválida. Por favor, elija una opción del 1 al 4.")
